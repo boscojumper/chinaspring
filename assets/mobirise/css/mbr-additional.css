@@ -2430,9 +2430,15 @@ body {
   color: #767676 !important;
 }
 .cid-qUZ1bCYFKt {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/background5.jpg");
+  padding-top: 75px;
+  padding-bottom: 30px;
+  background-image: url("../../../assets/images/mbr-1807x1080.jpg");
+}
+.cid-qUZ1bCYFKt SPAN {
+  color: #465052;
+}
+.cid-qUZ1bCYFKt H3 {
+  color: #232323;
 }
 .cid-qUZ1fmDKAo {
   padding-top: 60px;
