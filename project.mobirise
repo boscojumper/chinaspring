@@ -308,7 +308,7 @@
           "_global": false,
           "_once": false,
           "_params": {
-            "slides__autoplay": false,
+            "slides__autoplay": true,
             "slides__autoplayInterval": 4000,
             "slides__showBullets": true,
             "slides": [
@@ -331,16 +331,16 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2018-06-15-at-16.21.55-1600x588.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
-                "showText": true,
+                "showText": false,
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "\r<div><b><br></b></div><div><b>\r</b></div><div><b>\r</b></div><div><b>\r</b></div><div><b><br></b></div><br><br><br><br><br><br><div><b>保證收租計劃　　保證實有租收&nbsp;</b></div>",
+                "title": "\r<div><b><br></b></div><div><b>\r</b></div><div><b>\r</b></div><div><b>\r</b></div><div><b><br></b></div><br><br><br><br><div><b>保證收租計劃</b></div><br><div><b>保證實有租收&nbsp;</b></div>",
                 "overlay": false,
                 "contentAlign": "left",
                 "text": "",
@@ -348,7 +348,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1800x1080.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
