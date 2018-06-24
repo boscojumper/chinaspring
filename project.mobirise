@@ -750,7 +750,7 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1581x1080.jpg",
+                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2018-06-15-at-16.21.54-1600x680.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
@@ -761,24 +761,24 @@
                 "customStyle2": "display-2",
                 "customStyle3": "display-4",
                 "title": "全屏幻灯片",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "center",
                 "text": "<b>專人跟進逾期繳付租金、追討欠租或收回物業。</b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success\" href=\"https://mobirise.com\">WINDOWS版本</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">MAC版本</a>"
               },
               {
-                "image": "@THEME_PATH@/components/_images/carousel/2.jpg",
+                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2018-06-15-at-16.21.55-1600x588.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": false,
-                "playVideo": true,
+                "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-2",
                 "customStyle2": "display-7",
                 "customStyle3": "display-4",
                 "title": "视频幻灯片",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "center",
                 "text": "带Youtube视频背景和彩色遮罩的幻灯片。标题与文本被左对齐。",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-primary\" href=\"https://mobirise.com\">WINDOWS版本</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">MAC版本</a>"
@@ -795,9 +795,9 @@
                 "customStyle2": "display-7",
                 "customStyle3": "display-4",
                 "title": "图片幻灯片",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "center",
-                "text": "从预设的备选区块中选择，如jumbotrons，hero images，parallax scrolling，视频背景，汉堡包菜单，sticky header等等。",
+                "text": "<b>「一站式」專業租務管理服務</b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">WINDOWS版本</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">MAC版本</a>"
               }
             ]
