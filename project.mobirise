@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "China Spring",
-    "currentPage": "index.html",
+    "currentPage": "management.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -37,7 +37,7 @@
       ]
     },
     "versionFirst": "4.7.2",
-    "uniqCompNum": 24,
+    "uniqCompNum": 25,
     "versionPublish": "4.7.7",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -1841,6 +1841,27 @@
           "_once": false,
           "_params": {},
           "_anchor": "content9-n"
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
+            ".mbr-text B": {
+              "color": "#000000"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article><b>本公司可提供專業的裝修工程和室內設計公司，另提供工程統籌和監督服務，可閒讓業主節省費用和時間。\n</b><div><b>\n</b></div><div><b>工程項目統籌和監督收費:\n</b></div><div><b>\n</b></div><div><b>工程總值之7%，或最少HKD1200，以高耇為準。</b></div></div>\n        </div>\n    </div>\n</section>",
+          "_cid": "r1TkOqMbpj",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content1-o"
         }
       ]
     },
