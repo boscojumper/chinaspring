@@ -3412,8 +3412,8 @@ body {
   color: #232;
 }
 .cid-r1FWvziXFn {
-  padding-top: 60px;
-  padding-bottom: 60px;
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
 .cid-r1FWvziXFn .counter-container {
@@ -3443,6 +3443,18 @@ body {
   height: 25px;
   border-radius: 50%;
   content: '✓';
+}
+.cid-r1ZucWu28x {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-r1ZucWu28x .mbr-text,
+.cid-r1ZucWu28x blockquote {
+  color: #767676;
+}
+.cid-r1ZucWu28x .mbr-text P {
+  color: #000000;
 }
 .cid-qUYzHQ0vvc .navbar {
   background: #066aff;
